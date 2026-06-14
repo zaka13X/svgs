@@ -1,0 +1,77 @@
+<svg xmlns="http://w3.org/2000/svg" viewBox="0 0 1000 1200" width="100%" height="100%">
+  <!-- Optional SVG background styling -->
+  <rect width="100%" height="100%" fill="#111111"/>
+
+  <foreignObject x="0" y="0" width="1000" height="1200">
+    <div xmlns="http://w3.org/1999/xhtml" lang="en" style="background: #111111; color: #ffffff; font-family: sans-serif; padding: 40px; box-sizing: border-box; min-height: 100%;">
+      
+      <!-- Embedded External Assets & Head Data -->
+      <link href="https://cdn.jsdelivr.net/gh/BestSpark687090/BestSpark687090/style.css" rel="stylesheet" type="text/css" />
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bestspark687090/bestspark687090/font-awesome.css" />
+      
+      <style>
+        /* Index Overwrites because it makes the Others page look HORRIBLE */
+        .games {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 0px !important;
+          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)) !important;
+          margin: 0 auto;
+        }
+
+        .games &gt; a,
+        .games &gt; div {
+          flex: 0 0 300px;
+          margin: initial;
+        }
+      </style>
+
+      <script src="./cloak.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+      <script>
+        <![CDATA[
+        try {
+          eruda.init();
+        } catch(e) {}
+        ]]>
+      </script>
+      <script src="https://www.googletagmanager.com/gtag/js?id=G-XEY66QJESF" async="async"></script>
+      <script>
+        <![CDATA[
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-XEY66QJESF");
+        ]]>
+      </script>
+
+      <!-- Main Body Content -->
+      <div class="title-part">BestSpark's Site</div>
+      <div class="text">
+        Hey there, I'm BestSpark687090! (or just BestSpark)
+        <br />
+        I like developing
+        <rot13ns>tnzrf</rot13ns>
+        and websites.
+        <br />
+        <span class="subtext">(I made this website myself as well!)</span>
+        <br />
+        <br />
+        <h3>
+          Anyways, you're probably here for the
+          <rot13ns>tnzrf</rot13ns>
+          , so here they are:
+        </h3>
+        <p class="subtext">
+          <b>Remember to bookmark this page so you won't forget it!</b>
+          <br />
+          (also you're allowed to share this url, just don't get me in trouble)
+          <br />
+          <b>
+            Also, join the
+            <rot13ns>qvfpbeq</rot13ns>
+            to get more links in case this one gets blocked!! (
+            
