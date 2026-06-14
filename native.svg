@@ -6,8 +6,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml" lang="en" style="background: #111111; color: #ffffff; font-family: sans-serif; padding: 40px; box-sizing: border-box; min-height: 100%;">
       
       <!-- Embedded External Assets & Head Data -->
-      <link href="https://cdn.jsdelivr.net/gh/BestSpark687090/BestSpark687090/style.css" rel="stylesheet" type="text/css" />
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bestspark687090/bestspark687090/font-awesome.css" />
+      <link href="https://jsdelivr.net" rel="stylesheet" type="text/css" />
+      <link rel="stylesheet" href="https://jsdelivr.net" />
       
       <style>
         /* Index Overwrites because it makes the Others page look HORRIBLE */
@@ -28,7 +28,7 @@
       </style>
 
       <script src="./cloak.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+      <script src="https://jsdelivr.net"></script>
       <script>
         <![CDATA[
         try {
@@ -36,7 +36,7 @@
         } catch(e) {}
         ]]>
       </script>
-      <script src="https://www.googletagmanager.com/gtag/js?id=G-XEY66QJESF" async="async"></script>
+      <script src="https://googletagmanager.com" async="async"></script>
       <script>
         <![CDATA[
         window.dataLayer = window.dataLayer || [];
@@ -74,4 +74,138 @@
             Also, join the
             <rot13ns>qvfpbeq</rot13ns>
             to get more links in case this one gets blocked!! (
-            
+            <rot13ns>qvfpbeq</rot13ns>
+            .gg/bestspark)
+          </b>
+        </p>
+      </div>
+      <br />
+      <div class="gradient">
+        <div class="text" style="width: 100%">
+          <h2>
+            Main
+            <rot13ns>Tnzrf</rot13ns>
+            :
+          </h2>
+          <br />
+          <div class="games" style="grid-template-columns: 1fr 1fr 1fr !important">
+            <div class="group">
+              <a class="gmslink" href="https://vps-1d0fee98.vps.ovh.us/games/">
+                BestSpark's
+                <rot13>Games</rot13>
+              </a>
+              <span class="subtext">
+                Yes, this is different from BestSpark
+                <rot13ns>Games</rot13ns>
+                .
+                <br />
+                I actually made a
+                <b>
+                  <rot13ns>Games</rot13ns>
+                </b>
+                part of the site!
+              </span>
+            </div>
+            <a href="https://workers.dev" class="change nes-emulator" style="flex: 0 0 300px; margin: initial">
+              Retro
+              <rot13>Tnzr</rot13>
+              Emulator
+            </a>
+            <div class="group">
+              <a href="https://vercel.app">
+                BestSpark
+                <rot13ns>Games</rot13ns>
+              </a>
+              <span class="subtext">
+                (yes, that's the name of it, deal with it.)
+              </span>
+            </div>
+          </div>
+          <br />
+          <br />
+          <h2>
+            Other
+            <rot13ns>Tnzrf</rot13ns>
+            :
+          </h2>
+          <span class="subtext">
+            (aka the
+            <rot13>tnzrf</rot13>
+            that aren't really that good, but still made by me)
+          </span>
+          <br />
+          <div class="games">
+            <a href="https://vercel.app">Canvas Clicker</a>
+            <a href="https://vercel.app">
+              Wordle Clone
+            </a>
+            <a href="https://vercel.app">
+              <rot13ns>Tnzr</rot13ns>
+              &#160;of Life
+            </a>
+            <a href="https://vercel.app">H Clicker</a>
+            <div class="group">
+              <a href="https://vercel.app">Hollow Knight</a>
+              <span class="subtext">
+                (I technically didn't make it but just got it to work)
+              </span>
+            </div>
+          </div>
+          <br />
+          <br />
+          <span>
+            Technically, these aren't
+            <rot13ns>tnzrf</rot13ns>
+            , but here they are anyways:
+          </span>
+          <br />
+          <div class="games">
+            <a href="https://vps-1d0fee98.vps.ovh.us/pxy/" class="pxy1">
+              Ultraviolet
+              <rot13>Ceb&#8204;kl</rot13>
+            </a>
+            <a href="https://vps-1d0fee98.vps.ovh.us/sjp/" class="pxy2">
+              Scramjet
+              <rot13>Ceb&#8204;kl</rot13>
+            </a>
+            <div class="group">
+              <a href="https://vercel.app">
+                Balatro Shader
+              </a>
+              <span class="subtext">(Mostly just a screensaver basically.)</span>
+            </div>
+            <div class="group">
+              <a href="ads.html">Ad Haven</a>
+              <span class="subtext">
+                (Makes me money if you want to support me)
+              </span>
+            </div>
+          </div>
+          <br />
+          <a href="https://workers.dev" style="font-style: italic; font-size: 110%" class="change website-suggestions">
+            Suggest new features!
+          </a>
+          <span class="subtext">
+            (Just type in your name and your suggestion, and I may add it to the site!)
+          </span>
+          <br />
+          <br />
+        </div>
+      </div>
+      <br />
+      <div class="text">
+        To contact me, please use the email
+        <br />
+        <a href="mailto:bestspark@bestspark.org">bestspark@bestspark.org</a>
+        for any game suggestions, or requests.
+      </div>
+      <br />
+      <div class="text">
+        <h1>
+          <a href="https://esm.sh">Visit ESM GitHub</a>
+        </h1>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
